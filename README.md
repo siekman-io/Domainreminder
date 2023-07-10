@@ -37,7 +37,7 @@
   <p align="center">
     A script to add your TransIP domain renewal dates to your Apple Calender.
     <br />
-    <a href="https://github.com/siekman-io/ansible/domainreminder"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/siekman-io/domainreminder"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
