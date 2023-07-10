@@ -117,7 +117,7 @@ _Follow steps below._
 * now you are ready to run the script
 
 for a more detailed description please visit my website
-<a href="https://www.siekman.io/transip-domain-renewal-dates-to-apple-calendar/"><strong>siekman.io detailed post. »</strong></a>
+<a href="https://www.siekman.io/transip-domain-renewal-dates-to-apple-calendar/"><strong>[siekman.io detailed post.]</strong></a>
 
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
