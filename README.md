@@ -155,7 +155,7 @@ Now you see in the calender all your domains 14 days before cancelling date. In 
 
 - Twitter       - [@JoukeSiekman](https://twitter.com/JoukeSiekman)
 - LinkedIN      - [LinkedIn](https://www.linkedin.com/in/jouke-siekman})
-- Mail me:      - [info@siekman.io]info@siekman.io
+- Mail me:      - [info@siekman.io]
 
 Project Link: [https://github.com/siekman-io/ansible](https://github.com/siekman-io/ansible)
 
