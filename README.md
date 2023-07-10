@@ -48,7 +48,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <img src="https://siekman.io/github/domainreminder/scr_domainreminder.jpg)" alt="DomainReminder">
-[![Product Name Screen Shot][product-screenshot]](https://siekman.io/github/domainreminder/scr_domainreminder.jpg)
 
 This program is a must have for domain traders. This program retrieves the data from your domains via TransIP API. Including the renewal dates. Because a merchant often forgets to cancel a domain before the expiry of the period, it would be useful if these dates are recorded in your calendar. So that you receive a timely reminder whether you want to renew or terminate a domain
 This script saves all dates in your calendar and sets a default notification 14 days before the renewal date of your domain
