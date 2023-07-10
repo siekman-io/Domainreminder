@@ -1,0 +1,27 @@
+#####################################################
+# Domain portfolio to calender OSX
+#####################################################
+#        _      _                            _
+#    ___(_) ___| | ___ __ ___   __ _ _ __   (_) ___
+#   / __| |/ _ \ |/ / '_ ` _ \ / _` | '_ \  | |/ _ \
+#   \__ \ |  __/   <| | | | | | (_| | | | |_| | (_) |
+#   |___/_|\___|_|\_\_| |_| |_|\__,_|_| |_(_)_|\___/                 
+#
+#              Created by Jouke Siekman
+#             Netherlands 2023 Leerbroek
+#                https://siekman.io
+#
+#####################################################
+## Variables
+#####################################################
+
+CALNAME=*YOUR CALENDER NAME HERE*
+DAYS=-14
+CANCELSCRIPT=~/domainreminder/cancel.sh
+
+# TransIP API Token
+TRANSIP_URL=https://transip.nl
+APITOKEN="$(cat ~/.ssh/transip)"
+
+#Because homebrew python fuckup 
+RUNPYTHON=/opt/homebrew/bin/python3
