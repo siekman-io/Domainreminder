@@ -35,16 +35,11 @@
   <h3 align="center">domainreminder</h3>
 
   <p align="center">
-    a script for  
+    A script to add your TransIP domain renewal dates to your Apple Calender.
     <br />
     <a href="https://github.com/siekman-io/ansible/domainreminder"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/siekman-io/ansible">View Demo</a>
-    ·
-    <a href="https://github.com/siekman-io/ansible/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/siekman-io/ansible/issues">Request Feature</a>
   </p>
 </div>
 
@@ -53,10 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://siekman.io/github/ansible/domainreminder/scr_domainreminder.jpg)
-
-Dit programma is een must have voor domein handelaren. Dit programma haalt de data van uw domeinen binnen via TransIP API. Waaronder de vernieuwings datums. Omdat het een handelaar regelmatig een domein vergeet op te zeggen voor het verstrijken van de periode zou het handig zijn als deze datums in uw agenda wordt vastgelegd . Zodat u een optijd een reminder krijgt of u een domein wilt verlengen of beeindigen. 
-Dit script schrijft alle data weg in uw agenda en stelt standaard een melding 14 dagen voor de verlengdatum van uw domein
+[![Product Name Screen Shot][product-screenshot]](https://siekman.io/github/domainreminder/scr_domainreminder.jpg)
 
 This program is a must have for domain traders. This program retrieves the data from your domains via TransIP API. Including the renewal dates. Because a merchant often forgets to cancel a domain before the expiry of the period, it would be useful if these dates are recorded in your calendar. So that you receive a timely reminder whether you want to renew or terminate a domain
 This script saves all dates in your calendar and sets a default notification 14 days before the renewal date of your domain
@@ -88,26 +80,20 @@ This script is build with Bash, Python and Applescript.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This are the instructions to start using the script.
 
 ### Prerequisites
 
-[ ] Apple Computer with OSX
-[ ] Terminal access
-[ ] Python installed
-[ ] jq installed ( Commandline JSON Processor )
-[ ] TransIP API access 
+- [x] Apple Computer with OSX
+- [x] Terminal access
+- [x] Python installed
+- [x] jq installed ( Commandline JSON Processor )
+- [x] TransIP API access 
 
-
-You need to have a Apple Computer installed with OSX, access to the terminal and have Python installed ( use brew for that ) and create a API key on your TransIP Controlpanel account ( please keep this key save )
-
-This playbook is created for Ansible version core 2.15.0 
-This is an example of how to list things you need to use the software and how to install them.
 
 ### Installation
 
-_You can clone this project with the following command._
+_Follow steps below._
 
 
 * Clone the repo
@@ -130,7 +116,7 @@ _You can clone this project with the following command._
   
 * now you are ready to run the script
 
-for a more detailed description please visit my website <a href="https://github.com/siekman-io/ansible/issues">https://www.siekman.io</a>
+for a more detailed description please visit my website <a href="https://www.siekman.io/transip-domain-renewal-dates-to-apple-calendar/">https://www.siekman.io</a>
 
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
