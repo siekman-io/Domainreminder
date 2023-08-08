@@ -15,7 +15,7 @@
 ## Variables
 #####################################################
 
-CALNAME=*YOUR CALENDER NAME HERE*
+CALNAME=Domeinnamen
 DAYS=-14
 CANCELSCRIPT=~/domainreminder/cancel.sh
 

@@ -67,5 +67,5 @@ EOD
 done
 
 # Cleanup after
-rm -rf domains.csv
+rm -rf domains.csv  
 rm -rf domains-renew.txt
